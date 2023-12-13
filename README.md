@@ -2,6 +2,9 @@
 
 
 
+<div align="center>
+  <img src="" width="30px" />
+</div>
 
 Um sistema que utiliza a linguagem Java (Orientação a objetos e Estruturas De Dados) para simular a criação de refeições a partir de alimentos cadastrados com seus valores reais de nutrientes, a fim de fornecer a tabela nutricional completa e real daquela refeição. Tambem possui a funcionalidade de criar um roteiro semanal, adicionando refeiçoes aos dias da semana e obtendo os valores totais dos nutrientes de cada dia.
 
