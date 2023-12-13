@@ -1,10 +1,10 @@
-# SF---Sistema-de-nutriçao
+# SF---Sistema-de-nutriçao  
 
 
+<div>
+  <img src="https://github.com/joaopedro1422/SF---Sistema-de-nutri-o/assets/113139444/f54dde9f-7bdd-4e0e-b35d-98c890a21210.png"     width="150px" />
+</div>                                
 
-<div align="center>
-  <img src="" width="30px" />
-</div>
 
 Um sistema que utiliza a linguagem Java (Orientação a objetos e Estruturas De Dados) para simular a criação de refeições a partir de alimentos cadastrados com seus valores reais de nutrientes, a fim de fornecer a tabela nutricional completa e real daquela refeição. Tambem possui a funcionalidade de criar um roteiro semanal, adicionando refeiçoes aos dias da semana e obtendo os valores totais dos nutrientes de cada dia.
 
